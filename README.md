@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://abhishekprajapati.netlify.app/](https://abhishekprajapati.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://abhishekprajapatinew.netlify.app/](https://abhishekprajapatinew.netlify.app/)
 
 - 💬 Ask me about **react, Html,CSS, JavaScript,ExpressJs, MongoDBMongoo**
 
