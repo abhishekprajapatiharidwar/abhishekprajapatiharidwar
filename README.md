@@ -1,35 +1,103 @@
-
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate full Stack Web developer (MERN)</h3>
+<h3 align="center">Full Stack Software Developer | React.js | Node.js | JavaScript | Building Scalable Web Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekprajapatiharidwar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatiharidwar" /> </p>
-
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at [https://abhishekprajapatinew.netlify.app/](https://abhishekprajapatinew.netlify.app/)
-
-- 💬 Ask me about **react, Html,CSS, JavaScript,ExpressJs, MongoDBMongoo**
-
-- 📫 How to reach me **prajapatiabhishek02@gmail.com**
-
-- 📄 Know about my experiences [https://abhishekprajapati.netlify.app/src/Resu.pdf](https://abhishekprajapati.netlify.app/src/Resu.pdf)
-
-- ⚡ Fun fact **Developers are masters of turning bugs into features and errors into inside jokes! 😄🐞**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/abhishek_inuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abhishek_inuk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-741864193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar-741864193/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abhishekprajapatiharidwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhishekprajapatiharidwar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishekprajapatiharidwar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="Reactjs" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekprajapatiharidwar&show_icons=true&locale=en&layout=compact" alt="abhishekprajapatiharidwar" /></p>
+## 👨‍💻 About Me
+
+- 💼 Currently working at **Marketopper Securities Pvt Ltd** as a **Software Developer**
+- 🚀 Experienced in building scalable full-stack web applications
+- 🌱 Currently learning **Advanced System Design, AI Tools & Cloud Deployment**
+- 📊 Skilled in dashboards, analytics systems & automation tools
+- ⚡ Passionate about solving business problems using code
+
+---
+
+## 🔭 Current Work
+
+- Full Stack Development using **React.js + Node.js**
+- MIS Systems & Reporting Dashboards
+- Trading & Analytics Applications
+- Rust + Tauri Desktop Applications
+- AI Assisted Development Workflow
+
+---
+
+## 🌐 Portfolio
+
+- 🌍 Portfolio: [abhishekprajapatinew.netlify.app](https://abhishekprajapatinew.netlify.app/)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **prajapatiabhishek02@gmail.com**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/abhishek-kumar-741864193/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/abhishekprajapatiharidwar/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="mailto:prajapatiabhishek02@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,mysql,git,firebase,tauri" />
+</p>
+
+---
+
+## 🤖 AI & Productivity Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
+
+## ☁️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,github,gcp,figma" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekprajapatiharidwar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprajapatiharidwar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 📊 MIS Dashboard & Reporting System
+- 📈 Performance Summary Analytics Platform
+- ⚙️ Tauri Desktop Launcher & Auto Updater
+- 🤖 AI Assisted Productivity Tools
+- 🌐 Full Stack Trading Management System
+
+---
+
+## ⚡ Fun Fact
+
+**I turn business problems into software solutions 🚀**
